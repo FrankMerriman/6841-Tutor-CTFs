@@ -1,5 +1,4 @@
-flag
-FLAG{BUY_MORE_FOOD}
+
 
 title
 subliminal_messaging
@@ -9,6 +8,42 @@ A new advert is being accused of sending subliminal messages to viewers! Can you
 
 files to give participants
 loud_food.mp4
+
+
+
+ANSWER BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+flag
+FLAG{BUY_MORE_FOOD}
 
 guide
 Inspect metadata of video file. Flag is located under directors.
