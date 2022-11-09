@@ -1,5 +1,4 @@
-flag
-FLAG{CREEPER_AW_MAN}
+
 
 title
 block_game
@@ -9,6 +8,47 @@ you have obtained a file from a pretty small and unheard of video game. Can you 
 
 files to give participants
 level.dat
+
+
+
+ANSWER BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+flag
+FLAG{CREEPER_AW_MAN}
 
 guide
 Load the minecraft save file into an NBT analysis tool and navigate to the players inventory. One item contains the flag.
