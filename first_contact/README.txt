@@ -1,5 +1,3 @@
-
-
 title
 first_contact
 
