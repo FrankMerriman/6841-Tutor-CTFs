@@ -1,4 +1,4 @@
-# 6841_tutor_ctfs
+# 6841 Capture the flags
 
 A collection of capture the flag's written while tutoring at university. These are forensics focused (because that's what I enjoyed the most when I took the course)
 
